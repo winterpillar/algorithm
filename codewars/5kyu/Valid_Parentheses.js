@@ -17,4 +17,4 @@ function validParentheses(parens){
     }
 
     return !res;
-  }
+}
